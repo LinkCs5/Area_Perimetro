@@ -1,0 +1,10 @@
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\1Act-Area-Perimetro\1Act-Area-Perimetro\bin\Debug\1Act-Area-Perimetro.exe.config
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\1Act-Area-Perimetro\1Act-Area-Perimetro\bin\Debug\1Act-Area-Perimetro.exe
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\1Act-Area-Perimetro\1Act-Area-Perimetro\bin\Debug\1Act-Area-Perimetro.pdb
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\1Act-Area-Perimetro\1Act-Area-Perimetro\obj\Debug\1Act-Area-Perimetro.csproj.AssemblyReference.cache
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\1Act-Area-Perimetro\1Act-Area-Perimetro\obj\Debug\_1Act_Area_Perimetro.Form1.resources
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\1Act-Area-Perimetro\1Act-Area-Perimetro\obj\Debug\_1Act_Area_Perimetro.Properties.Resources.resources
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\1Act-Area-Perimetro\1Act-Area-Perimetro\obj\Debug\1Act-Area-Perimetro.csproj.GenerateResource.cache
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\1Act-Area-Perimetro\1Act-Area-Perimetro\obj\Debug\1Act-Area-Perimetro.csproj.CoreCompileInputs.cache
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\1Act-Area-Perimetro\1Act-Area-Perimetro\obj\Debug\1Act-Area-Perimetro.exe
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\1Act-Area-Perimetro\1Act-Area-Perimetro\obj\Debug\1Act-Area-Perimetro.pdb
